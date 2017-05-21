@@ -1,0 +1,15 @@
+
+//动画插件
+15.3.1版本： react-addons-css-transition-group
+
+15.5版本 react-transition-group
+
+安装
+npm install react-transition-group --save
+
+
+
+
+
+
+
